@@ -1,3 +1,4 @@
+![colombo](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/96c92edc-ee76-4610-af8c-d181f8318511)
 # Weather App
 
 This is a web-based weather application that allows users to view weather details for different locations. It provides today's weather in Colombo by default and allows users to search for weather details using latitude and longitude. Additionally, the app displays a 3-day weather forecast and has a "View More" feature to see the weather forecast for the entire week.
@@ -33,13 +34,14 @@ This is a web-based weather application that allows users to view weather detail
 
 ## Screenshots
 
-![login](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/4ad87a0e-a96b-43bc-82c5-90f24432975d)
+![login](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/ee5e0d44-4878-4513-bed6-d1071b615063)
 
-![colombo](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/f2251d15-5df3-4ec5-b98a-9f750d883ffb)
+![colombo](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/5ed8090e-0451-48d9-9f42-a4334374de5f)
 
-![view more](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/9192e368-e709-4c52-b3c9-61ad32730766)
+![view more](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/f7fadf71-0b8b-4dc3-9c64-e244df87bf30)
 
-![melbourne](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/5ac998e8-f801-4b64-a04b-dd5aaba83277)
+![melbourne](https://github.com/YasiruRuwantha/weather-app-react/assets/31759902/7e818f90-b2fd-4456-9c2b-452176b55a82)
+
 
 ---
 Created by Yasiru Weerakoon
